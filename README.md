@@ -1,8 +1,8 @@
 ### Olá  eu sou Vitor Moreira 🖐️
 ##  Esse e meu perfil no github estou inicio da jornada como desenvolvedor😊😍💻🖥
 
-[![Whatssap ](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5551983555958?text=OLA+SOU+VITOR+MOREIRA)
-[![ e-mail ](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox)
+[![Whatssap ](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5551983555958)
+[![ e-mail ](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://criarmeulink.com.br/u/1662063835)
 [![ linkedin ](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-rocha-3b709a175/)
 ![Vitor GitHub stats](https://github-readme-stats.vercel.app/api?username=vitormrock&show_icons=true&theme=radical)
 
