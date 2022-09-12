@@ -19,7 +19,7 @@
 Apaixonado por tecnologia,e por mudar a vida das pesssoas atraves da tecnologia.
 <div align="center">
  
-  ![Snake animation](https://github.com/vitorrock/vitorrock/blob/output/github-contribution-grid-snake.svg)
+
   
 </div>
 
