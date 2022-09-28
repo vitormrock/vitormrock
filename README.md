@@ -1,5 +1,5 @@
 ### Olá  eu sou Vitor Moreira 🖐️
-## estou inicio da jornada como desenvolvedor😊😍💻🖥
+## estou iniciando na jornada como desenvolvedor web😊😍💻🖥
 ![vitorM GitHub stats](https://github-readme-stats.vercel.app/api?username=vitormrock&show_icons=true&theme=dark)
 <div>
      <a href="https://wa.me/5551983555958" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-                            badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
