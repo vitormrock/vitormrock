@@ -1,10 +1,10 @@
 ### Olá  eu sou Vitor Moreira 🖐️
 ## Estou iniciando na jornada como desenvolvedor 💻🖥
-![vitorM GitHub stats](https://github-readme-stats.vercel.app/api?username=vitormrock&show_icons=true&theme=dark)
+![vitorM GitHub stats](![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical))
 <div>
      <a href="https://wa.me/5551983555958" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-                            badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
      <a href="vhttps://criarmeulink.com.br/u/1662063835" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-                  badge&logo=gmail&logoColor=white" target="_blank"></a>
-     <a href="https://www.linkedin.com/in/vitor-rocha-3b709a175/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-      badge&logo=linkedin&logoColor=white" target="_blank"></a>
+     <a href="https://www.linkedin.com/in/vitor-moreira-679511199/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-      badge&logo=linkedin&logoColor=white" target="_blank"></a>
  </div>
 
 ##  Tecnologias que eu uso no meu dia
