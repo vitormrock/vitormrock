@@ -1,5 +1,5 @@
 ### Olá  eu sou Vitor Moreira 🖐️
-## estou iniciando na jornada como desenvolvedor 💻🖥
+## Estou iniciando na jornada como desenvolvedor 💻🖥
 ![vitorM GitHub stats](https://github-readme-stats.vercel.app/api?username=vitormrock&show_icons=true&theme=dark)
 <div>
      <a href="https://wa.me/5551983555958" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-                            badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
@@ -16,7 +16,7 @@
   <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img align="center" alt="redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
 </div><br/>
-Apaixonado por tecnologia,e por mudar a vida das pesssoas atraves da tecnologia.
+Apaixonado por tecnologia,e por mudar a vida das pesssoas atraves dela.
 <div align="center">
  
 ![snake gif](https://github.com/vitormrock/vitormrock/blob/output/github-contribution-grid-snake.svg)
