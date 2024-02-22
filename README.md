@@ -1,5 +1,5 @@
 ### Olá  eu sou Vitor Moreira 🖐️
-## Estou iniciando na jornada como desenvolvedor ios 💻🖥
+## Estou iniciando na jornada como desensenvolvedor mobile front end. 💻🖥
 ![Vitor Moreira GitHub stats](https://github-readme-stats.vercel.app/api?username=vitormrock&show_icons=true&theme=radical))
 
 <div>
@@ -11,11 +11,11 @@
 ##  Tecnologias que eu uso no meu dia
 
 <div style="display: inline_block"><br/>
-  <img align="center" alt="ios" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" />
-  <img align="center" alt="Swift" src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
-  <img align="center" alt="steam" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />
-  <img align="center" alt="xcode" src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white" />
-  <img align="center" alt="git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+  <img align="center" alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img align="center" alt="JS" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img align="center" alt="Type" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img align="center" alt="GIT" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
 </div><br/>
 Apaixonado por tecnologia,e por mudar a vida das pesssoas atraves dela.
 <div align="center">
