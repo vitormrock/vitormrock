@@ -1,4 +1,4 @@
-### Hi, I'm Victor🖐️
+### Hi, I'm Vitor🖐️
 ## I'm starting my journey in the world of programming, focusing on developing iOS apps using Swift.
 ## I love learning new things and I'm always exploring new technologies! 💻🖥
 
