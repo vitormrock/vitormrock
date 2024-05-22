@@ -5,7 +5,7 @@
 
 <div>
      <a href="https://wa.me/5551983555958" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-                            badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
-     <a href="vhttps://criarmeulink.com.br/u/1662063835" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-                  badge&logo=gmail&logoColor=white" target="_blank"></a>
+     <a href="<a href=mailto:vitormoreiraadd@hotmail.com "" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-                  badge&logo=gmail&logoColor=white" target="_blank"></a>
      <a href="https://www.linkedin.com/in/vitor-moreira-679511199/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-      badge&logo=linkedin&logoColor=white" target="_blank"></a>
  </div>
 
@@ -17,9 +17,4 @@
   <img align="center" alt="GIT" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
 </div><br/>
 Passionate about technology, and changing people's lives through it.
-<div align="center">
- 
-![snake gif](https://github.com/vitormrock/vitormrock/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
 
