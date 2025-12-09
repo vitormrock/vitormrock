@@ -1,5 +1,5 @@
 ### Hi, I'm Vitor🖐️
-## I'm starting my journey in the world of programming, focusing on developing iOS apps using Swift.
+## I'm starting my journey in the world of programming.
 ## I love learning new things and I'm always exploring new technologies! 💻🖥
 
 ![Vitor Moreira GitHub stats](https://github-readme-stats.vercel.app/api?username=vitormrock&show_icons=true&theme=radical)
