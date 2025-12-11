@@ -1,1 +1,18 @@
+name: Pacman Contribution Graph
 
+on:
+  schedule:
+    - cron: '0 */12 * * *'
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate Pac-Man Graph
+        uses: maurodesouza/action-pacman-contribution-graph@main
+        with:
+          github_user_name: vitormrock
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          color: yellow
+          background_color: "1e1e1e"
