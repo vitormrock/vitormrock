@@ -51,12 +51,9 @@
 ###
 
 
-###
-## MINHA VONTADE APRENDER E A MESMA DE TOMAR CAFÉ!
+
 <div align="center">
   <img height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2h2NzBzaWk4cmlmZjB0MnIycG1lYWs5NzN3cjQ1NzhvbDB5MW1hbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SUVevIpPk084Yg5nlr/giphy.gif"  />
 </div>
 
-
-
-###
+MINHA VONTADE APRENDER E A MESMA DE TOMAR CAFÉ!
