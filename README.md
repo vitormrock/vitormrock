@@ -59,7 +59,14 @@
 
 ### 🟡 Meu Gráfico estilo Pac-Man (vitormrock)
 
-![Snake animation](https://raw.githubusercontent.com/vitormrock/vitormrock/output/github-contribution-grid-snake.svg)
+### 🟡 Pacman Contribution Graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./pacman.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./pacman.svg">
+  <img alt="Pacman eating my GitHub contributions" src="./pacman.svg">
+</picture>
+
 
 
 
