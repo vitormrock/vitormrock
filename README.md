@@ -50,7 +50,6 @@
 
 ###
 
-<h3 align="left">🔥   Meu status:</h3>
 
 ###
 
