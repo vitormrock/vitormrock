@@ -2,30 +2,18 @@ name: Pacman Contribution Graph
 
 on:
   schedule:
-    - cron: "0 0 * * *" # roda todo dia
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
-
     steps:
-      - name: Checkout
-        uses: actions/checkout@v3
-
-      - name: Pacman Chart
-        uses: maurodesouza/pacman-contribution-graph@main
+      - name: Pacman Eating Contributions
+        uses: maurodesouza/action-pacman-contribution-graph@main
         with:
           github_user_name: vitormrock
-          svg_out_path: "./pacman.svg"
-
-      - name: Commit files
-        run: |
-          git config --global user.name 'github-actions'
-          git config --global user.email 'github-actions@github.com'
-          git add pacman.svg
-          git commit -m "update pacman graph" || echo "No changes"
-          git push
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          color: yellow
+          background_color: "1e1e1e"
 
